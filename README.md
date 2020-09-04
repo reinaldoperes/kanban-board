@@ -1,3 +1,5 @@
+A react js custom kanban board using [rcdexta/react-trello](https://github.com/rcdexta/react-trello)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
